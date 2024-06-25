@@ -3,7 +3,7 @@ import "./AboutUs.css"
 
 const AboutUs = () => {
     return (
-        <div className="row about-pic vh-100">
+        <div className="row about-pic vh-100 justify-content-center">
             <h2 className="col-12 text-center mt-4 text-white">About Profession</h2>
             <div className="col-5 card m-2 p-2">
                 <span>
@@ -28,6 +28,7 @@ const AboutUs = () => {
             </div>
             <Footer/>
         </div>
+
     );
 };
 
