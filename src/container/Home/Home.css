@@ -1,0 +1,10 @@
+#home-page {
+    background-image: url("https://i0.wp.com/techweez.com/wp-content/uploads/2020/01/Telegram-chat-background.jpg?fit=1200%2C795&ssl=1");
+}
+
+.home-pic {
+    margin-top: 50px;
+    width: 350px;
+    height:auto;
+    border: 2px solid black;
+}
