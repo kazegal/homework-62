@@ -1,0 +1,11 @@
+#contacts-pic {
+    background: url("https://img.freepik.com/premium-vector/seamless-pattern-with-social-media-networking-global-internet-communication-chatting-instant-messaging-symbols-white-background-vector-illustration-line-art-style-wallpaper_198278-7649.jpg?w=360");
+}
+
+.contacts-map {
+    border: 3px solid black;
+    border-radius: 7px;
+    width: 560px;
+    height: auto;
+    margin: auto;
+}
